@@ -1,3 +1,4 @@
+<img width="1470" height="804" alt="Screenshot 2026-04-14 at 12 36 00 PM" src="https://github.com/user-attachments/assets/b570c36e-e421-49cb-83fe-dde7d2cdb385" />
 # Veritas — Deepfake Detector
 
 Professional-grade forensic analysis for images and video. Detect face swaps, lip-sync manipulations, and generative AI in seconds — right in your browser.
